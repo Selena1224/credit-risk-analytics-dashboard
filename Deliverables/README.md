@@ -1,0 +1,1 @@
+This folder contains the final Power BI credit risk dashboard and management presentation. Together, they demonstrate how exploratory analysis, statistical findings, and predictive modeling were translated into actionable recommendations for lending review and risk management.
