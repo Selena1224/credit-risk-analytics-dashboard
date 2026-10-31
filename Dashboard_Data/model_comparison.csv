@@ -1,0 +1,4 @@
+Model,CV Accuracy (%),CV High-Risk Recall (%),CV Accuracy Std (%)
+Logistic Regression,62.94,62.66,3.88
+Original Random Forest,59.12,59.71,4.1
+Controlled Random Forest,60.88,59.77,3.17

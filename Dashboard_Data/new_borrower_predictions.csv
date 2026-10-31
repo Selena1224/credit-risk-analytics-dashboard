@@ -1,0 +1,11 @@
+Borrower ID,Loan Purpose,Checking,Savings,Months Customer,Months Employed,Gender,Marital Status,Age,Housing,Years,Job,Predicted Credit Risk,High Risk Probability (%)
+1,Education,600,3500,30,45,M,Single,27,Rent,3,Skilled,High,61.4
+2,Business,500,800,15,20,F,Married,26,Rent,1,Unskilled,Low,48.4
+3,New Car,250,250,15,48,M,Single,25,Own,3,Skilled,High,52.9
+4,Furniture,101,3871,10,16,F,Single,26,Own,4,Skilled,Low,27.5
+5,Small Appliance,300,400,10,5,M,Divorced,28,Own,2,Skilled,Low,36.5
+6,Business,790,3000,8,24,M,Single,38,Rent,7,Unskilled,Low,36.5
+7,Education,680,600,50,18,F,Married,37,Other,6,Management,High,83.0
+8,Retraining,644,2000,20,60,M,Single,30,Own,4,Skilled,Low,41.2
+9,Small Appliance,100,8000,12,90,F,Single,33,Rent,9,Management,Low,24.9
+10,Repairs,0,900,25,4,M,Divorced,29,Own,3,Management,High,70.7
