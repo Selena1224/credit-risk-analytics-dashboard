@@ -1,5 +1,13 @@
 # Credit Risk Analytics & Decision Support
 
+🌐 **[View Interactive Project Website](https://selena1224.github.io/credit-risk-analytics-dashboard/)**
+
+📊 **[Download Full Power BI Dashboard](Deliverables/Credit_Risk_Dashboard.pbix)**
+
+📑 **[View Management Presentation](Deliverables/Credit_Risk_Management_Presentation.pptx)**
+
+---
+
 **The question isn't just who looks risky. It's where a lender should spend more review time—and whether that extra review is worth it.**
 
 I used **Python, machine learning, and Power BI** to analyze **425 historical borrowers**, compare predictive models, and develop a decision-support dashboard. My conclusion: **target review effort, measure the trade-offs, and validate the approach before changing lending policy.**
