@@ -1,10 +1,14 @@
 # Credit Risk Analytics & Decision Support
 
+### Explore the Project
+
 🌐 **[View Interactive Project Website](https://selena1224.github.io/credit-risk-analytics-dashboard/)**
 
-📊 **[Download Full Power BI Dashboard](Deliverables/Credit_Risk_Dashboard.pbix)**
+📊 **[Download Full Power BI Dashboard (.pbix)](https://raw.githubusercontent.com/Selena1224/credit-risk-analytics-dashboard/main/Deliverables/Credit_Risk_Dashboard.pbix)**
 
-📑 **[View Management Presentation](Deliverables/Credit_Risk_Management_Presentation.pptx)**
+📑 **[Download Management Presentation (.pptx)](https://raw.githubusercontent.com/Selena1224/credit-risk-analytics-dashboard/main/Deliverables/Credit_Risk_Management_Presentation.pptx)**
+
+*Explore the business findings and interactive review simulator online, or download the complete Power BI dashboard to access all report pages, visualizations, filters, and slicers.*
 
 ---
 
